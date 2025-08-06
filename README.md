@@ -28,4 +28,10 @@ A complete, step-by-step guide to building, dockerizing, and deploying a simple 
  
 
 ---
+##Screenshot
+
+![Docker](Screenshot 2025-08-06 002322.png)
+![workflow](Screenshot 2025-08-06 002208.png)
+![CI-CD](Screenshot 2025-08-06 170833.png)
+
 
